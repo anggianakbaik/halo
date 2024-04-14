@@ -1,0 +1,19 @@
+{
+  "name": "command-line-attack",
+  "version": "1.0.0",
+  "description": "A command line tool for performing attacks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "command line",
+    "attack",
+    "CLI"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
